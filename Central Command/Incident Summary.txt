@@ -1,0 +1,39 @@
+                            [color=#1b67a5]╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝[/color]
+                                        [color=#1b67a5][head=3]NanoTrasen[/ head][/color]
+
+(* = A Required Field)
+
+[color=#028a0f][head=3]Incident Resolution Report[/head][/color]  
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾  [head=3]Incident Summary[/head]  
+Two crew members, identified as [bold]Moff[/bold] and [bold]Crow[/bold], unlawfully declared themselves [bold]Captain[/bold] and [bold]Co-Captain[/bold] aboard the station. The pair forcibly entered the Captain's Quarters without proper authorization from NanoTrasen Central Command and began asserting control over station operations in direct violation of standard operating procedure and chain-of-command protocols.
+
+[head=3]Actions Taken by Central Command[/head]  
+1. [bold]Deployment of Central Command Representative and Guard:[/bold]  
+   A Central Command-appointed representative, accompanied by security personnel, was dispatched to restore order and manage the situation aboard the station.
+
+2. [bold]Engagement with Offenders:[/bold]  
+   - [bold]Crow[/bold] was apprehended promptly without resistance.  
+   - [bold]Moff[/bold] evaded initial capture and remains under watch.
+
+3. [bold]Offer of Reduced Sentence to Crow:[/bold]  
+   To assist in resolving this situation efficiently, [bold]Crow[/bold] has been offered a sentence reduction in exchange for his cooperation in covertly aiding in the capture of [bold]Moff[/bold]. [bold]Crow[/bold] is expected to provide actionable intelligence to security forces while ensuring minimal disruption to station operations.
+
+[head=3]Recommendations[/head]  
+- [bold]Immediate Actions:[/bold]  
+  - Station security must monitor all communications and movements of [bold]Moff[/bold] until his capture.  
+  - Ensure [bold]Crow[/bold] adheres strictly to his cooperation terms under the supervision of the Central Command representative.
+
+- [bold]Future Safeguards:[/bold]  
+  - Review and reinforce station access protocols to prevent unauthorized entry into high-security areas like the Captain's Quarters.  
+  - Conduct a comprehensive debrief of station command staff to identify lapses that allowed this situation to escalate.
+
+[head=3]Conclusion[/head]  
+Central Command considers this matter under control and will continue oversight until the situation is fully resolved. Further updates will be communicated as necessary. 
+
+[color=#AAAAAA]I, Adal Miller, Central Command Admiral, certify that this report is accurate and complete. The handling of this matter is in accordance with NanoTrasen protocols.[/color]

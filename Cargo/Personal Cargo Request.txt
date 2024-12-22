@@ -1,0 +1,41 @@
+[color=#003399]◥[bold]N[/bold]◣ [bold]Nanotrasen Logistics Department[/bold][/color]
+[color=#003399]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+[head=2]Personal Cargo Request Form[/head]
+
+[head=3]Requester Information[/head]
+[bold]Name:[/bold]  
+[bold]Department:[/bold]  
+[bold]Position:[/bold]  
+[bold]Shift Time:[/bold]  
+
+[head=3]Request Details[/head]
+[bold]Item(s) Requested:[/bold]  
+[List each item, including quantities, specific models, or types if applicable.]  
+[textarea/]
+
+[bold]Reason for Request:[/bold]  
+[Provide justification for the requested item(s).]  
+[textarea/]
+
+[bold]Priority:[/bold]  
+[ ] Standard (Delivered when cargo capacity allows)  
+[ ] Urgent (Additional charges may apply)  
+
+[head=3]Payment Information[/head]
+[bold]Payment Method:[/bold]  
+[ ] Personal Account  
+[ ] Department Budget Approval Required  
+
+[bold]Estimated Cost:[/bold]  
+[Specify the expected cost of the item(s). Leave blank if unknown.]  
+
+[head=3]Authorization[/head]
+[italic]Please ensure the request has been authorized by your department head or the cargo manager.[/italic]  
+
+[bold]Requester's Signature:[/bold]  
+[bold]Date of Submission:[/bold]  
+
+[bold]Approving Officer Signature:[/bold]  
+[bold]Date of Approval:[/bold]  
+
+[color=#AAAAAA]All requests are subject to availability, station regulations, and cargo department policies.[/color]

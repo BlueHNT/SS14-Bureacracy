@@ -1,0 +1,22 @@
+[color=Red]◥[bold]N[/bold]◣ [bold]Security[/bold][/color]
+[color=Red]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+[head=2]401 - Arrest Warrant[/head]
+
+[head=3]Defendant Information[/head]
+[bold]Name:[/bold] 
+[bold]Alias (if applicable):[/bold] 
+[bold]Physical Description:[/bold] 
+
+[head=3]Offense Details[/head]
+[bold]Case Number:[/bold] 
+[bold]Time of Incident:[/bold] 
+[bold]Location:[/bold] 
+[bold]Charges:[/bold] 
+[bullet/] 
+[bullet/] 
+
+[head=3]Authorization[/head] 
+[bold]Issuing Officer:[/bold] 
+[bold]Date/Time Issued:[/bold] 
+
+[color=#AAAAAA]This document is issued under the authority of the [italic]Security Department[/italic]. The subject is to be apprehended immediately and delivered to designated authorities. Failure to comply may result in further penalties.[/color]

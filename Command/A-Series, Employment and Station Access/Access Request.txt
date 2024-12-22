@@ -1,0 +1,17 @@
+[color=#003366]◥[bold]N[/bold]◣ [bold]Head of Personnel's Office[/bold][/color]
+[color=#003366]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+[head=2]Access Request Form (A-1)[/head]
+
+[bold]Requestor Name:[/bold]  
+[bold]Employee ID:[/bold]  
+[bold]Requested Access Level(s):[/bold]  
+[italic][Specify requested doors, departments, or zones.][/italic]  
+
+[bold]Reason for Request:[/bold]  
+[italic][Provide justification for access expansion.][/italic]  
+
+[bold]Approving Officer:[/bold]  
+[bold]Rank:[/bold]  
+[bold]Date/Time of Approval:[/bold]  
+
+[color=#AAAAAA]This form authorizes changes to station access under the jurisdiction of the [italic]Head of Personnel's Office[/italic]. Unauthorized use or modification is prohibited.[/color]

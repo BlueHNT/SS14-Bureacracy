@@ -1,0 +1,25 @@
+[color=#228B22]◥[bold]N[/bold]◣ [bold]Central Command[/bold][/color]  
+[color=#228B22]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]  
+[head=2]Cease and Desist Order[/head]  
+
+[head=3]Incident Details[/head]  
+*[bold]Report ID:[/bold]  
+*[bold]Filed By:[/bold]  
+*[bold]Date/Time:[/bold]  
+*[bold]Location:[/bold]  
+*[bold]Vessel/Station Involved:[/bold]  
+*[bold]Subject(s):[/bold] 
+
+[head=3]Summary[/head]  
+[color=#AAAAAA][Provide a detailed description of the behavior or actions of the head of department that prompted this Cease and Desist Order. This could include misconduct, failure to comply with regulations, interference with operations, or other problematic behavior. Be specific and clear about the nature of the offense and its impact on the station or organization.][/color]
+
+[head=3]Actions Taken[/head]  
+[color=#AAAAAA][Describe the actions already taken, such as warnings, discussions, or attempts at resolution. If any personnel or equipment were involved in addressing the issue, list those as well.][/color]
+
+[head=3]Cease and Desist Instructions[/head]  
+[color=#AAAAAA][State the specific actions or behavior that must cease immediately. Clearly outline the consequences of further violations and any corrective steps required. If there is a deadline or follow-up actions required, mention those as well.][/color]
+
+[head=3]Recommendations[/head]  
+[color=#AAAAAA][Provide recommendations for further action, including potential investigation, reassignment, or corrective measures. Include any additional requests for monitoring the subject's behavior moving forward.][/color]
+
+[color=#AAAAAA]This document is only valid when filled out by an employee of Nanotrasen Central Command and approved, signed, and stamped by a [italic]distinct[/italic] (unless impossible) commissioned officer ranked Commander or above.[/color]

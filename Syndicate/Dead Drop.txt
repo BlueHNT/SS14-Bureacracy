@@ -1,0 +1,22 @@
+[color=#8b0000]◥[bold]S[/bold]◣ [bold]Syndicate Operations Division[/bold][/color]
+[color=#8b0000]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+[head=2]Dead Drop Instructions[/head]
+
+[head=3]Target:[/head]
+[italic][Specify the person, item, or data required. Be precise but discrete.][/italic]
+
+[head=3]Drop Location:[/head]
+[italic][Insert details of the specific location, including coordinates or station area. Provide hints if needed.][/italic]
+
+[head=3]Contents:[/head]
+[italic][List the materials or items left for retrieval. Use Syndicate codenames where appropriate.][/italic]
+
+[head=3]Drop Protocol:[/head]
+1. [italic]Retrieve the drop discreetly. Avoid cameras and witnesses.[/italic]  
+2. [italic]Confirm receipt with the designated Syndicate handler.[/italic]  
+3. [italic]Leave no evidence of the exchange.[/italic]  
+
+[head=3]Additional Notes:[/head]
+[color=#AAAAAA][italic]Any failure to follow these instructions will result in immediate reprimand and possible blacklisting from future Syndicate operations. Proceed with caution.[/italic][/color]
+
+[color=#8b0000]End Transmission.[/color]

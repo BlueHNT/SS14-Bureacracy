@@ -1,0 +1,41 @@
+[color=#003399]◥[bold]N[/bold]◣ [bold]Nanotrasen Employee Relations[/bold][/color]
+[color=#003399]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+[head=2]Complaint or Suggestion Form[/head]
+
+[head=3]Submitter Information[/head]
+[bold]Name:[/bold]  
+[bold]Department:[/bold]  
+[bold]Position:[/bold]  
+[bold]Shift Time:[/bold]  
+
+[head=3]Type of Submission[/head]
+[ ] Complaint  
+[ ] Suggestion  
+
+[bold]Urgency Level:[/bold] [Low/Moderate/High]  
+
+[head=3]Details[/head]
+[bold]Description of Issue or Suggestion:[/bold]  
+[Provide a detailed explanation below.]  
+
+[textarea/]
+
+[bold]Relevant Personnel Involved (if any):[/bold]  
+[List names, ranks, and departments below.]  
+
+[bullet/]  
+[bullet/]  
+[bullet/]  
+
+[head=3]Resolution or Action Requested[/head]
+[Provide any recommendations or expectations for resolving the issue or implementing the suggestion.]  
+
+[textarea/]
+
+[head=3]Authorization[/head]
+[bold]Submitter Signature:[/bold]  
+[bold]Date of Submission:[/bold]  
+
+[italic]Note: Submissions will be reviewed promptly by the appropriate department or command staff. Complaints involving serious breaches of conduct may require further investigation.[/italic]
+
+[color=#AAAAAA]This form is to be submitted to the Employee Relations desk or electronically via station network terminals.[/color]

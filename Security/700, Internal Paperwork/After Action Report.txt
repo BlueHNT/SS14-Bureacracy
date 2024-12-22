@@ -1,0 +1,29 @@
+[color=#5e1646]◥[bold]J[/bold]◣ [bold]Central Judiciary Office[/bold][/color]
+[color=#5e1646]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+[head=2]701 - After Action Report[/head]
+
+[head=3]Incident Details[/head]
+[bold]Case Number:[/bold]  
+[bold]Responding Personnel:[/bold]  
+[bold]Time of Incident:[/bold]  
+[bold]Location of Incident:[/bold]  
+[bold]Involved Individuals:[/bold]  
+
+[head=3]Summary[/head]
+[italic][Provide a detailed account of the incident, actions taken, and any notable observations.][/italic]  
+
+[head=3]Evidence Collected[/head]
+[italic][List evidence secured during the operation, including the name of the officer responsible for each item.][/italic]  
+
+[head=3]Commendations[/head]
+[italic][List any personnel who demonstrated exemplary performance. Include a brief description of their actions.][/italic]  
+
+[head=3]Recommendations[/head]
+[italic][Provide suggestions for further actions, investigations, or disciplinary measures as necessary.][/italic]  
+
+[head=3]Authorization[/head]
+[bold]Submitting Officer:[/bold]  
+[bold]Rank:[/bold]  
+[bold]Date/Time of Submission:[/bold]  
+
+[color=#AAAAAA]This report has been filed under the authority of the [italic]Central Judiciary Office[/italic]. All information contained herein is certified as accurate to the best of the author’s knowledge. False or misleading information will result in immediate disciplinary action.[/color]

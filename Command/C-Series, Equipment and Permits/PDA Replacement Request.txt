@@ -1,0 +1,12 @@
+[color=#003366]◥[bold]N[/bold]◣ [bold]Head of Personnel's Office[/bold][/color]
+[color=#003366]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+[head=2]PDA Replacement Request (C-2.1)[/head]
+
+[bold]Employee Name:[/bold]  
+[bold]Employee ID:[/bold]  
+[bold]Reason for Replacement:[/bold]  
+
+[bold]Head of Personnel Approval:[/bold]  
+[bold]Date/Time of Processing:[/bold]  
+
+[color=#AAAAAA]This form authorizes issuance of a replacement PDA card for personnel.[/color]

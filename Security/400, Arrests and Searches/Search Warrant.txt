@@ -1,0 +1,21 @@
+[color=red]◥[bold]N[/bold]◣ [bold]Security[/bold][/color]
+[color=red]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+[head=2]402 - Search Warrant[/head]
+
+[head=3]Warrant Information[/head]
+[bold]Subject (Person/Vessel/Area):[/bold]  
+[bold]Request Reason:[/bold]  
+[bold]Location of Search:[/bold]  
+[bold]Authorized Shift Time:[/bold]  
+
+[head=3]Requestor Information[/head]
+[bold]Requesting Officer:[/bold]  
+[bold]Rank:[/bold]  
+[bold]Case Number:[/bold]  
+[bold]Time of Request:[/bold]  
+
+[head=3]Authorization[/head]
+[bold]Issuing Officer:[/bold] 
+[bold]Date/Time of Authorization:[/bold]  
+
+[color=#AAAAAA]This warrant is valid under the authority of the [italic]Security Department[/italic]. Agents are permitted to enter and search the listed location within the designated time. Abuse or failure to comply with this warrant will result in disciplinary action.[/color]

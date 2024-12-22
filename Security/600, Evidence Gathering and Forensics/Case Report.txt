@@ -1,0 +1,23 @@
+[color=#5e1646]◥[bold]J[/bold]◣ [bold]Central Judiciary Office[/bold][/color]
+[color=#5e1646]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+[head=2]603 - Case Report[/head]
+
+[bold]Case Number:[/bold]  
+[bold]Date/Time of Report:[/bold]  
+[bold]Reporting Officer:[/bold]  
+[bold]Rank:[/bold]  
+
+[head=3]Incident Summary[/head]
+[italic][Provide a detailed summary of the case, including key events, individuals involved, and evidence found.][/italic]  
+
+[head=3]Charges Filed[/head]
+[italic][List all charges brought forward, with reference to relevant laws or regulations.][/italic]  
+
+[head=3]Recommendations[/head]
+[italic][Provide suggestions for sentencing, additional investigation, or case closure.][/italic]  
+
+[bold]Authorizing Officer:[/bold]  
+[bold]Rank:[/bold]  
+[bold]Date/Time of Authorization:[/bold]  
+
+[color=#AAAAAA]This case report is filed under the jurisdiction of the [italic]Central Judiciary Office[/italic]. Any inaccuracies or omissions may result in disciplinary action.[/color]

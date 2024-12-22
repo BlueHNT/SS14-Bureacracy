@@ -1,0 +1,17 @@
+[color=#5e1646]◥[bold]J[/bold]◣ [bold]Central Judiciary Office[/bold][/color]
+[color=#5e1646]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+[head=2]501 - Sentencing Order[/head]
+
+[bold]Defendant:[/bold]  
+[bold]Offense(s):[/bold]  
+[bold]Case Number:[/bold]  
+[bold]Location of Incident:[/bold]  
+
+[bold]Sentence Issued:[/bold]  
+[italic][Detail the punishment, duration, and any special conditions.][/italic]  
+
+[bold]Sentencing Officer:[/bold]  
+[bold]Rank:[/bold]  
+[bold]Date of Sentencing:[/bold]  
+
+[color=#AAAAAA]This order has been authorized under the jurisdiction of the [italic]Central Judiciary Office[/italic]. Failure to comply with sentencing terms will result in further penalties or escalation.[/color]

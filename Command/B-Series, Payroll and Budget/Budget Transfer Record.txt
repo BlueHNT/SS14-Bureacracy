@@ -1,0 +1,16 @@
+[color=#003366]◥[bold]N[/bold]◣ [bold]Head of Personnel's Office[/bold][/color]
+[color=#003366]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+[head=2]Budget Transfer Record (B-2)[/head]
+
+[bold]Source Department:[/bold]  
+[bold]Destination Department:[/bold]  
+[bold]Amount Transferred:[/bold]  
+
+[bold]Reason for Transfer:[/bold]  
+[italic][Provide purpose for budget reallocation.][/italic]  
+
+[bold]Head of Personnel Approval:[/bold]  
+[bold]Quartermaster Approval (if applicable):[/bold]  
+[bold]Date/Time of Transfer:[/bold]  
+
+[color=#AAAAAA]This form documents budget transfers and requires all relevant approvals for validity.[/color]

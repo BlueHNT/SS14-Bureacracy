@@ -1,0 +1,19 @@
+[color=#5e1646]◥[bold]J[/bold]◣ [bold]Central Judiciary Office[/bold][/color]
+[color=#5e1646]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+[head=2]502 - Execution Order[/head]
+
+[bold]Defendant:[/bold]  
+[bold]Offense(s):[/bold]  
+[bold]Case Number:[/bold]  
+[bold]Location of Incident:[/bold]  
+
+[bold]Method of Execution:[/bold]  
+[italic][Specify authorized execution method.][/italic]  
+
+[head=3]Authorization[/head]
+[bold]Issuing Officer:[/bold] [italic]Chief Justice Linden at the End of Time[/italic]  
+[bold]Date/Time of Authorization:[/bold]  
+[bold]Execution Officer:[/bold]  
+[bold]Witnesses Present:[/bold]  
+
+[color=#AAAAAA]This order is issued under the full authority of the [italic]Central Judiciary Office[/italic]. Unauthorized interference or obstruction will be met with severe disciplinary action.[/color]

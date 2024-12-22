@@ -1,0 +1,23 @@
+[color=#228B22]◥[bold]N[/bold]◣ [bold]Central Command[/bold][/color]  
+[color=#228B22]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]  
+[head=2]Incident Report[/head]  
+
+(* = A Required Field)
+[head=3]Incident Details[/head]  
+*[bold]Report ID:[/bold]
+*[bold]Filed By:[/bold]
+*[bold]Date/Time:[/bold]
+*[bold]Location:[/bold]
+*[bold]Vessel/Station Involved:[/bold]
+
+*[head=3]Summary[/head]  
+[color=#AAAAAA][Insert detailed description of the incident, including key events, observations, and outcomes.][/color]
+
+*[head=3]Actions Taken[/head]  
+[color=#AAAAAA][Describe any actions taken to address the incident, including commands issued, personnel dispatched, or equipment used.][/color]
+
+[head=3]Recommendations[/head]  
+[color=#AAAAAA][Provide recommendations or requests for further action or investigation.][/color]
+
+[color=#AAAAAA]This Document is only valid when filled out by an employee of Nanotrasen Central Command and approved, signed, and stamped by a [italic]distinct[/italic] (unless impossible) comissioned officer ranked Commander or above.[/color]
+

@@ -1,0 +1,16 @@
+[color=#5e1646]◥[bold]J[/bold]◣ [bold]Central Judiciary Office[/bold][/color]
+[color=#5e1646]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+[head=2]602 - Evidence Record[/head]
+
+[bold]Case Number:[/bold]  
+[bold]Recording Officer:[/bold]  
+[bold]Date/Time of Entry:[/bold]  
+
+[head=3]Evidence Log[/head]
+[italic][List evidence items with descriptions and chain of custody details. Example:][/italic]  
+1. [bold]Item Description:[/bold] [italic]Bloodied baton[/italic]  
+   [bold]Secured By:[/bold] [italic]Officer M. Crow[/italic]  
+   [bold]Location:[/bold] [italic]Armory Storage Locker[/italic]  
+2. ...  
+
+[color=#AAAAAA]This document certifies the handling and storage of evidence under the [italic]Central Judiciary Office[/italic]. Unauthorized tampering or loss of evidence will result in severe penalties.[/color]

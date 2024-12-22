@@ -1,0 +1,34 @@
+[color=#003399]◥[bold]N[/bold]◣ [bold]Nanotrasen Cargo Department[/bold][/color]
+[color=#003399]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+[head=2]Priority Shipment Request[/head]
+
+[head=3]Request Details[/head]
+[bold]Requesting Department:[/bold]  
+[bold]Requesting Officer:[/bold]  
+[bold]Shift Time:[/bold]  
+[bold]Priority Level:[/bold] [High/Critical]  
+[bold]Reason for Priority:[/bold]  
+
+[head=3]Shipment Information[/head]
+[bold]Items Required:[/bold]  
+[List all requested items below, including quantity and description.]
+
+[bullet/] [bold]Item Name:[/bold]  
+[bullet/] [bold]Quantity:[/bold]  
+[bullet/] [bold]Description or Specifications:[/bold]  
+
+[bold]Expected Delivery Timeframe:[/bold]  
+
+[head=3]Budget Approval[/head]
+[bold]Budget Code:[/bold]  
+[bold]Estimated Cost:[/bold]  
+
+[head=3]Authorization[/head]
+[bold]Requesting Officer Signature:[/bold]  
+[bold]Approving Officer Signature:[/bold]  
+[bold]Cargo Supervisor Approval:[/bold]  
+[bold]Date of Submission:[/bold]  
+
+[italic]Priority shipments are subject to additional fees and resource allocation. Unauthorized requests may be denied.[/italic]
+
+[color=#AAAAAA]This form is required for expedited processing of high-priority or critical shipments. Ensure all information is complete before submission to avoid delays.[/color]

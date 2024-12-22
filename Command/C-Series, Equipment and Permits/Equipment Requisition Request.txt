@@ -1,0 +1,18 @@
+[color=#003366]◥[bold]N[/bold]◣ [bold]Head of Personnel's Office[/bold][/color]
+[color=#003366]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+[head=2]Equipment Requisition Request (C-1)[/head]
+
+[bold]Requestor Name:[/bold]  
+[bold]Employee ID:[/bold]  
+[bold]Item(s) Requested:[/bold]  
+[italic][List each item in detail.][/italic]  
+
+[bold]Reason for Request:[/bold]  
+[italic][Explain purpose and need for the equipment.][/italic]  
+
+[bold]Department Head Approval:[/bold]  
+[bold]Quartermaster Confirmation:[/bold]  
+
+[bold]Date/Time of Approval:[/bold]  
+
+[color=#AAAAAA]This form authorizes requisition of station equipment. Unauthorized distribution is prohibited.[/color]

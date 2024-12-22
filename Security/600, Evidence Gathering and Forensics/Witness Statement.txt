@@ -1,0 +1,18 @@
+[color=Red]◥[bold]N[/bold]◣ [bold]Security[/bold][/color]
+[color=Red]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+[head=2]601 - Witness Statement[/head]
+
+[bold]Name of Witness:[/bold]  
+[bold]Occupation/Rank:[/bold]  
+[bold]Date/Time of Statement:[/bold]  
+
+[head=3]Statement[/head]
+[italic][Provide the witness's account of events in full detail. Include observations and clarifications.][/italic]  
+
+[head=3]Verification[/head]
+[bold]Witness Signature:[/bold]  
+[bold]Recording Officer:[/bold]  
+[bold]Date/Time of Recording:[/bold]  
+
+[color=#AAAAAA]This statement has been recorded under the jurisdiction of the [italic]Security[/italic]. False or misleading information will result in severe penalties under law.[/color]
+
