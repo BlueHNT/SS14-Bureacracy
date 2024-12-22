@@ -1,0 +1,36 @@
+[color=#4f6e40]◥[bold]N[/bold]◣ [bold]New Frontier Sheriff's Department[/bold][/color]
+[color=#4f6e40]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+
+[head=2]Contraband Turnover Program[/head]
+
+[bold]Program Overview:[/bold]
+The Contraband Turnover Program allows for the exchange of FUCs (Frontier Uplink Coins) for contraband items in compliance with current regulations. For every FUC submitted, a payout of [color=#ff0000]2,000 spesos[/color] is granted. This program is intended for civilian or station personnel who possess contraband but wish to comply with the amnesty efforts.
+
+[bold]Important Notes:[/bold]
+
+This program does not apply to UIV (Unidentified Vessel) contraband. The NFSD maintains exclusive authority over the handling of such contraband.
+Contraband turned in will be assessed, and the respective amount of FUCs will be credited to the holder.
+
+[head=3]Contraband Information[/head]
+
+[bold]Contraband Holder:[/bold]
+[bold]Total Contraband Value (FUC):[/bold]
+[bold]Payout per FUC:[/bold] [color=#ff0000]2,000 spesos[/color]
+[bold]Payout Total:[/bold]
+
+[head=3]Contraband Details:[/head]
+[bold]C2 Contraband:[/bold]
+[bullet/]
+[bullet/]
+[bullet/]
+
+[bold]C3 Contraband:[/bold]
+[bullet/]
+[bullet/]
+[bullet/]
+
+[head=3]Authorization & Signatures[/head]
+[bold]Approved By:[/bold]
+[bold]Shift Time:[/bold]
+
+[italic][color=#AAAAAA]This Form is void without the signatures of both Parties and a stamp of Frontier Command (officer ranked Bailiff or above, or a Station Representative).[/italic][/color]

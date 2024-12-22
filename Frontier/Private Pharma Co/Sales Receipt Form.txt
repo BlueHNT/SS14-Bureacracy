@@ -1,0 +1,43 @@
+[head=2][color=#0066CC]Beaker NX-363 Sales Receipt[/color][/head]
+
+[italic]This receipt confirms the sale and delivery of chemical or pharmaceutical supplies as per the details outlined below. Please retain a copy for your records.[/italic]
+
+[bolditalic][color=#228B22]Customer Information[/color][/bolditalic]
+
+[bullet/] [bold]Customer Name:[/bold]
+[bullet/] [bold]Occupation:[/bold]
+[bullet/] [bold]Ship Name & ID:[/bold] (e.g., Starfarer NX-123)  
+
+[bolditalic][color=#FF4500]Items Purchased[/color][/bolditalic]  
+[italic]The following items were requested and sold to the customer:[/italic]  
+
+[bullet/] [bold]Item Name:[/bold]
+[bullet/] [bold]Quantity:[/bold]
+[bullet/] [bold]Price per Unit:[/bold] credits
+[bullet/] [bold]Total Cost for Item:[/bold] credits
+
+(repeat above section for multiple items if applicable)
+
+[bolditalic][color=#9400D3]Total Charges[/color][/bolditalic]
+
+[bullet/] [bold]Subtotal:[/bold] credits
+
+[bolditalic][color=#FF6347]Discounts Applied[/color][/bolditalic]
+
+[bullet/] [bold]Insurance Discount:[/bold] credits (discount for ongoing contracts or customers with insurance plans)
+[bullet/] [bold]Mass Sale Discount:[/bold] credits (applied for bulk purchases or promotional offers)
+[bullet/] [bold]Loyalty Discount:[/bold] credits (for repeat customers or long-term clients)
+
+[bullet/] [bold]Total Amount Due:[/bold] credits
+
+[bolditalic][color=#2E8B57]Payment Confirmation[/color][/bolditalic]
+
+[bullet/] [bold]Payment Received:[/bold] credits
+[bullet/] [bold]Payment Method:[/bold] Cash
+
+[italic]Thank you for your purchase! For further orders, contact Beaker NX-363.[/italic]
+
+[bolditalic][color=#A52A2A]Authorized Signature[/color][/bolditalic]  
+
+[bullet/] [bold]Time of Transaction:[/bold]
+[bullet/] [bold]Authorized by:[/bold]

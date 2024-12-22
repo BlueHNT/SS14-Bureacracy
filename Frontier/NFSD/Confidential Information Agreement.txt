@@ -1,0 +1,32 @@
+[color=#4f6e40]◥[bold]N[/bold]◣ [bold]New Frontier Sheriff's Department[/bold][/color]
+[color=#4f6e40]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+[head=2]Confidential Information Agreement[/head]
+
+[head=3]Agreement Details[/head]
+[bold]Recipient Name:[/bold] 
+[bold]Role/Position:[/bold] 
+[bold]Vessel IFF (if applicable):[/bold] 
+[bold]Date of Agreement:[/bold] 
+
+[head=3]Terms of Confidentiality[/head]
+By signing this agreement, the Recipient acknowledges and agrees to the following terms:
+
+1. Any information labeled as **Confidential** or shared under this agreement by the New Frontier Sheriff's Department (NFSD) is to remain strictly confidential. 
+2. The Recipient agrees not to disclose, share, or discuss confidential information with unauthorized individuals or entities.
+3. Confidential information must not be reproduced, recorded, or stored without explicit authorization from an officer of the NFSD ranked **Bailiff** or above.
+4. Any breach of confidentiality will result in penalties as outlined under [italic]Space Law §8.3[/italic] and may result in criminal charges, fines, or termination of access to NFSD resources.
+
+[head=3]Permitted Use[/head]
+Confidential information provided under this agreement is for the sole purpose of supporting NFSD operations. Any other use is strictly prohibited.
+
+[head=3]Acknowledgment & Signature[/head]
+I, the undersigned, confirm that I have read and understood the terms of this agreement and agree to comply with all outlined provisions.
+
+[bold]Recipient Signature:[/bold] 
+[bold]Authorized Officer Signature:[/bold] 
+[bold]Officer Rank:[/bold] [Sample Rank] 
+[bold]Date of Authorization:[/bold] [Sample Date] 
+
+[italic]This document is only valid when signed by both parties and stamped by the NFSD.[/italic]
+
+[color=#AAAAAA]Breach of this agreement is subject to legal action under NFSD jurisdiction.[/color]

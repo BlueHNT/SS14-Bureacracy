@@ -1,0 +1,18 @@
+[color=#4f6e40]◥[bold]N[/bold]◣ [bold]New Frontier Sheriff's Department[/bold][/color]
+[color=#4f6e40]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+[head=2]Search Warrant[/head]
+
+[head=3]Warrant Information[/head]
+[bold]Subject (Person/Vessel IFF):[/bold]
+[bold]Request Reason:[/bold]
+[bold]Shift Time Granted:[/bold]
+
+[head=3]Requestor Information[/head]
+[bold]Case #:[/bold]
+[bold]Request Time:[/bold]
+[bold]Requesting Officer:[/bold]
+[bold]Officer Rank:[/bold]
+
+
+
+[color=#AAAAAA]This Warrant is only valid when requested by an agent of the NFSD and approved, signed, and stamped by a [italic]distinct[/italic] (unless impossible) officer ranked Bailiff or above or a Station Representative.[/color]

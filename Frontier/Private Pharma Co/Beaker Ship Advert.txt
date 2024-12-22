@@ -1,0 +1,20 @@
+[head=2][color=#0066CC]Welcome to Beaker NX-363 – Your Mobile Pharmaceutical Hub[/color][/head]
+
+[bolditalic][color=#228B22]Innovative chemical solutions, tailored for all your needs.[/color][/bolditalic]
+
+[head=3][color=#FF4500]Our Offerings Include:[/color][/head]
+
+[bullet/] [bold]Medicines for Miners and Adventurers:[/bold] Combat injuries with reliable remedies like Tricordrazine and Bicaridine.
+[bullet/] [bold]Recreational Pharmaceuticals for Psychologists:[/bold] Enhance therapy sessions with curated, quality drugs.
+[bullet/] [bold]Everyday Prescriptions:[/bold] Essential supplies such as Dexalin Plus and Paracetamol, available on demand.
+
+[italic]Custom requests? No problem—we’ll craft the perfect solution.[/italic]
+
+[head=3][color=#9400D3]Industrial Chemical Solutions:[/color][/head]
+
+[bullet/] [bold]Specialized Reagents:[/bold] Including Thermite, CLF3, and other industrial-grade oils tailored for salvaging and expeditions.
+[bullet/] [bold]Precision Crafting and Swift Delivery:[/bold] Chemicals synthesized on demand, delivered right where they’re needed.
+
+[bolditalic][color=#DAA520]Contact Beaker NX-363 for unparalleled pharmaceutical and chemical expertise.[/color][/bolditalic]
+
+[italic]From life-saving treatments to expedition essentials, Beaker NX-363 supports your station’s mission every step of the way.[/italic]

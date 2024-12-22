@@ -1,0 +1,30 @@
+[color=#4f6e40]◥[bold]N[/bold]◣ [bold]New Frontier Sheriff's Department[/bold][/color]
+[color=#4f6e40]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+
+[head=2]Arrest Warrant[/head]
+
+Warrant Issued By:
+[bullet/] [bold]Officer Name:[/bold]
+[bullet/] [bold]Officer Rank:[/bold]
+
+Suspect Information:
+[bullet/] [bold]Name:[/bold]
+[bullet/] [bold]Known Alias(es):[/bold]
+[bullet/] [bold]Occupation/Role:[/bold]
+[bullet/] [bold]Ship Name & ID (if applicable):[/bold]
+
+Reason for Arrest:
+[italic](Clearly state the offense, with references to Space Law codes or sections)[/italic]
+
+[bullet/] [bold]Criminal Charges:[/bold]
+[List relevant charges, e.g., Theft, Assault, Contraband Possession]
+
+Last Known Location:
+[bullet/]
+
+Special Instructions (if any):
+[italic](E.g., caution on apprehension, equipment checks, or situational hazards)[/italic]
+
+[color=#228B22][bold]Authorization & Signatures:[/bold][/color]
+[bullet/] [bold]Issuing Officer Signature:[/bold]
+[bullet/] [bold]Date of Issue:[/bold]

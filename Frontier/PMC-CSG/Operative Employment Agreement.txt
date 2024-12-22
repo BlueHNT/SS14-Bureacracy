@@ -1,0 +1,23 @@
+[color=#8b0000]◥[bold]CSG[/bold]◣ [bold]PMC Group[/bold][/color]
+[color=#8b0000]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+[head=2]Operative Employment Agreement[/head]
+
+[bold]Operative Name:[/bold] [SAMPLE TEXT]
+[bold]PMC Leader:[/bold] Adal Miller
+[bold]Vessel IFF:[/bold] [SAMPLE TEXT]
+
+[head=3]Terms of Employment[/head]
+
+The operative agrees to perform all assigned duties, including but not limited to contraband handling, scouting, and security operations.
+
+The operative will adhere to the CSG Code of Conduct.
+
+Compensation will be issued as follows: [NUM]% during employment duration, with bonuses for high-value missions.
+
+[bold]Violation Penalties:[/bold] Termination of employment and forfeiture of pay for breaches of conduct.
+
+[head=3]Signatures[/head]
+[bold]Operative Signature:[/bold][SAMPLE TEXT]
+[bold]PMC Leader Signature:[/bold][SAMPLE TEXT]
+
+[color=#AAAAAA]This document is legally binding within the jurisdiction of CSG operations.[/color]

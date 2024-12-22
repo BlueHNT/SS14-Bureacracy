@@ -1,0 +1,5 @@
+5 oil
+2 sulfuric acid
+3 ash
+
+makes 5 plastic

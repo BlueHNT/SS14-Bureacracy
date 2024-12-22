@@ -1,0 +1,67 @@
+[color=#8b0000]◥[bold]McCargo’s™[/bold]◣ [bold]Franchise Menu[/bold][/color]
+[color=#8b0000]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+
+[head=2]Menu Offerings[/head]
+
+[head=3]McCargo™ Meal - 2200cr[/head]
+The timeless classic. Perfect for frontier veterans and newcomers alike. For 300cr more, you can make it a McChesee™ Meal
+[bold]Contains:[/bold]
+- 1 McCargo™ MonkeyBurger  
+- 1 Medium Fries  
+- 1 Medium Drink
+
+[head=3]McCarp™ Meal - 3200cr[/head]
+A seafood twist for the adventurous eater, made from fresh Space Carp.  
+[bold]Contains:[/bold]  
+- 1 Fillet-O-Carp Burger 
+- 1 Medium Fries 
+- 1 Medium Drink  
+
+[head=3]Cargo McBacon™ - 2600cr[/head]
+A hearty variation of the McCargo Classic for those who crave more.  
+[bold]Contains:[/bold]  
+- 1 Bacon McCargo™ MonkeyBurger  
+- 1 Medium Fries  
+- 1 Medium Drink
+
+[head=3]McGuffin Meal - 2000cr[/head]
+The ideal breakfast or anytime meal for egg enthusiasts. (Note: does not provide plot advantages!)  
+[bold]Contains:[/bold]  
+- 1 McCargo™ McGuffin Sandwich  
+- 1 Medium Drink  
+- 1 Medium Fries
+
+[head=3]Chicken McCargo™ Meal - 2200cr[/head]
+A poultry-based alternative for a twist on the McCargo Classic.  
+[bold]Contains:[/bold]  
+- 1 Chicken McCargo™ Sandwich  
+- 1 Medium Fries  
+- 1 Medium Drink
+
+[head=3]McCargo™ Heartstopper Meal - 5000cr[/head]
+More than just a meal—an experience! Packed with 3500 calories.  
+[bold]Contains:[/bold]  
+- 1 McCargo™ Super Big Bite™ MonkeyBurger  
+- 2 Medium Cheese Fries  
+- 1 Medium Drink
+
+[head=3]McCargo™ Nugget Meal - 3500cr[/head]  
+Bite-sized brilliance! Perfectly seasoned, golden-crispy nuggets for the frontier explorer on the go.  
+[bold]Contains:[/bold]  
+- 1 Box of McNuggets™  
+- 1 Medium Fries  
+- 1 Medium Drink  
+
+[head=3]McCargo Fried Chicken™ Bucket Meal - 4400cr[/head]  
+A cargo-approved twist on fried chicken, served hot and crispy! Perfect for sharing (or not).  
+[bold]Contains:[/bold]  
+- 3 Pieces of McCargo Fried Chicken™  
+- 1 Large Fries  
+- 1 Large Drink  
+
+[head=2]Customization Options[/head]
+- Substitute fries for [bold]Onion Rings[/bold] for +100cr.  
+- Upgrade drink to [bold]Large[/bold] for +200cr.  
+- Add a [bold]Dessert Pie[/bold] (flavor of the week) for +250cr.  
+
+[color=#AAAAAA]Welcome to McCargo’s™! Keep your customers satisfied and your crates moving![/color]

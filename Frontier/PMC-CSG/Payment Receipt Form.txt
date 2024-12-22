@@ -1,0 +1,16 @@
+[color=#8b0000]◥[bold]CSG[/bold]◣ [bold]PMC Group[/bold][/color]
+[color=#8b0000]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+[head=2]Payment Receipt Form[/head]
+
+[bold]Received From:[/bold] [e.g., NFSD]
+[bold]Received By:[/bold] Adal Miller / CSG Representative
+[bold]Amount:[/bold] $[e.g., 5,000]
+[bold]Reason for Payment:[/bold] Sale of contraband / Intel / Services
+
+[head=3]Details[/head]
+
+[head=3]Signatures[/head]
+[bold]Payer Signature:[/bold] [e.g., NFSD Representative]
+[bold]Recipient Signature:[/bold] [e.g., Adal Miller]
+
+[color=#AAAAAA]Retain a copy of this receipt for record-keeping purposes.[/color]

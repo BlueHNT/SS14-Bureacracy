@@ -1,0 +1,27 @@
+[color=#4f6e40]◥[bold]N[/bold]◣ [bold]New Frontier Sheriff's Department[/bold][/color]
+[color=#4f6e40]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+[head=2]Duty Log[/head]
+
+[head=2]Sheriff[/head]
+[bold]Name:[/bold] 
+[bold]Sign On Time:[/bold] 
+[bold]Sign Off Time:[/bold] 
+
+[head=2]Officers[/head]
+[bold]Name:[/bold] 
+[bold]Position:[/bold]
+[bold]Sign On Time:[/bold] 
+[bold]Sign Off Time:[/bold] 
+
+[bold]Name:[/bold] 
+[bold]Position:[/bold]
+[bold]Sign On Time:[/bold] 
+[bold]Sign Off Time:[/bold] 
+
+[bold]Name:[/bold] 
+[bold]Position:[/bold]
+[bold]Sign On Time:[/bold] 
+[bold]Sign Off Time:[/bold] 
+
+
+[color=#AAAAAA]This Form is considered NT Sensitive Data, Class 2, and is for internal NFSD use only.[/color]

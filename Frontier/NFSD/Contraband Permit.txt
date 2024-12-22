@@ -1,0 +1,30 @@
+[color=#4f6e40]◥[bold]N[/bold]◣ [bold]New Frontier Sheriff's Department[/bold][/color]
+[color=#4f6e40]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+
+[head=2]Class 3 Contraband Permit[/head]
+
+[head=3]Permit Information[/head]
+[bold]Permit Holder:[/bold] [Sample Name]
+[bold]Permit Holder's Crew:[/bold]
+[bullet/] [Sample Name]
+[bullet/] [Sample Name]
+[bullet/] [Sample Name]
+
+[bold]Shift Time Authorized:[/bold] [Sample Time Period]
+
+[head=3]Authorization & Terms[/head]
+This permit grants the Holder and their listed crew the legal authorization to possess and use Class 3 contraband during the designated time period. Please refer to Space Law §6.1.4 for a complete definition of Class 3 contraband.
+
+Any violation of the terms outlined here or any engagement in activities that contradict the Contraband Amnesty Agreement shall void this permit immediately.
+
+[bold]Issued By:[/bold]
+[bold]Authorized Officer Name:[/bold]
+[bold]Officer Rank:[/bold] [Sample Rank]
+
+[bold]Date of Issue:[/bold] [Sample Date]
+[bold]Issuing Officer Signature:[/bold]
+
+[italic]This Permit is void without the signature of the Holder and the stamp of the NFSD agent issuing the permit.[/italic]
+
+[color=#AAAAAA]This document is only valid when stamped and signed by a member of the New Frontier Sheriff's Department (Bailiff rank or above), or a Station Representative.[/color]
+

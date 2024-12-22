@@ -1,0 +1,33 @@
+[color=#4f6e40]◥[bold]N[/bold]◣ [bold]New Frontier Sheriff's Department[/bold][/color]
+[color=#4f6e40]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+[head=2]Witness Statement Form[/head]
+
+[head=3]Witness Information[/head]
+[bold]Name:[/bold] 
+[bold]Species:[/bold] 
+[bold]Vessel IFF (if applicable):[/bold] 
+[bold]Contact Information:[/bold] 
+
+[head=3]Incident Details[/head]
+[bold]Case #:[/bold] 
+[bold]Date & Time of Incident:[/bold] 
+[bold]Location of Incident:[/bold] 
+
+[head=3]Statement[/head]
+Please provide a detailed account of the incident. Include relevant actions, individuals involved, and any other important observations.
+
+[italic](Attach additional pages if necessary.)[/italic]
+
+[head=3]Witness Certification[/head]
+I, the undersigned, affirm that the above statement is true to the best of my knowledge. I understand that providing false or misleading information may result in legal consequences.
+
+[bold]Date:[/bold] 
+[bold]Witness Signature:[/bold] 
+
+[head=3]Officer Verification[/head]
+[bold]Officer Name:[/bold] 
+[bold]Officer Rank:[/bold] 
+[bold]Verification Date:[/bold] 
+[bold]Issuing Officer Signature:[/bold] 
+
+[color=#AAAAAA]This document must be signed by the witness and verified by an NFSD officer ranked Bailiff or above to be considered valid.[/color]

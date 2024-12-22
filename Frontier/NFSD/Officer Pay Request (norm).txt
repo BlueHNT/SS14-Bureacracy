@@ -1,0 +1,17 @@
+[color=#4f6e40]◥[bold]N[/bold]◣ [bold]New Frontier Sheriff's Department[/bold][/color]
+[color=#4f6e40]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+
+[head=2]Officer Pay Request Form[/head]
+
+Officer Information:
+[bullet/] [bold]Officer Name:[/bold]
+[bullet/] [bold]Officer Rank:[/bold]
+[bullet/] [bold]Ship or Station Assignment:[/bold]
+
+Request Details:
+
+[bullet/] [bold]Hours Worked This Shift:[/bold]
+[bullet/] [bold]Special Operations Completed (if any):[/bold]
+[List relevant operations, e.g., arrests, searches, contraband seizures, etc.]
+
+[color=#AAAAAA]This warrant is only valid when requested by an agent of the NFSD, and approved, signed and stamped by a distinct (unless impossible) officer ranked Bailiff or above, or a Station Representative.[/color]

@@ -1,0 +1,38 @@
+[color=#4f6e40]◥[bold]N[/bold]◣ [bold]New Frontier Sheriff's Department[/bold][/color]
+[color=#4f6e40]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+[head=2]Seized Contraband Inventory[/head]
+
+[head=3]Case Information[/head]
+[bold]Case #:[/bold] 
+[bold]Seizure Location:[/bold] 
+[bold]Seizure Date:[/bold] 
+[bold]Officers Involved:[/bold] 
+
+[head=3]Contraband Details[/head]
+Please list all seized contraband items below, including details about their type, condition, and value (if applicable).
+
+[bold]Item #1:[/bold]
+[bullet/] [bold]Description:[/bold] 
+[bullet/] [bold]Class:[/bold] 
+[bullet/] [bold]Condition:[/bold] 
+[bullet/] [bold]Approximate Value:[/bold] 
+[bullet/] [bold]Officer in Custody of Item:[/bold] 
+
+[bold]Item #2:[/bold]
+[bullet/] [bold]Description:[/bold] 
+[bullet/] [bold]Class:[/bold] 
+[bullet/] [bold]Condition:[/bold] 
+[bullet/] [bold]Approximate Value:[/bold] 
+[bullet/] [bold]Officer in Custody of Item:[/bold] 
+
+[italic](Add more entries as necessary.)[/italic]
+
+[head=3]Custody & Documentation[/head]
+[bold]Items Transferred To:[/bold] 
+[bold]Transfer Date:[/bold] 
+[bold]Receiving Officer Name:[/bold] 
+[bold]Receiving Officer Signature:[/bold] 
+
+[italic]By signing, the receiving officer acknowledges custody and responsibility for the listed contraband items.[/italic]
+
+[color=#AAAAAA]This inventory form is void unless signed by all officers involved in the seizure and custody of the contraband.[/color]

@@ -1,0 +1,23 @@
+[color=#8b0000]◥[bold]CSG[/bold]◣ [bold]PMC Group[/bold][/color]
+[color=#8b0000]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+[head=2]Contraband Inventory Log[/head]
+
+[bold]PMC Leader:[/bold] Adal Miller
+[bold]Vessel IFF:[/bold] [SAMPLE TEXT]
+[bold]Contact Code:[/bold] [SAMPLE TEXT]
+
+[head=3]Inventory Details[/head]
+[table][thead]| Item # | Contraband Type | Quantity | Condition |[/thead]
+[tbody]
+[bullet/] | Item # | Contraband Type | Quantity | Condition |
+[bullet/] | Item # | Contraband Type | Quantity | Condition |
+[bullet/] | Item # | Contraband Type | Quantity | Condition |
+[/tbody][/table]
+
+[bold]Total FUC Value:[/bold] $[SAMPLE TEXT]
+
+[head=3]Signatures[/head]
+[bold]PMC Leader Signature:[/bold] [SAMPLE TEXT]
+
+[color=#AAAAAA]Log updates must be submitted to CSG command weekly.[/color]
+

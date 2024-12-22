@@ -1,0 +1,40 @@
+[color=#8b0000]◥[bold]CSG[/bold]◣ [bold]PMC Group[/bold][/color]
+[color=#8b0000]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+[head=2]Contraband Handover Form[/head]
+
+[head=3]PMC Lead Information[/head]
+[bold]PMC Leader:[/bold] Adal Miller
+[bold]Vessel IFF:[/bold] Brigand LV-715
+[bold]Contact Code:[/bold] Fax Brigand LV-715
+
+[head=3]Handover Details[/head]
+[bold]Recipient Organization:[/bold] New Frontier Sheriff's Department (NFSD)
+[bold]Date & Time:[/bold] [SAMPLE TEXT]
+[bold]Payment Guarantee Rate (per FUC):[/bold] $[SAMPLE TEXT]
+
+[head=3]Contraband Inventory[/head]
+[table][thead]| Item # | Contraband Type | Quantity | Condition |[/thead]
+[tbody]
+[bullet/] | Item # | Contraband Type | Quantity | Condition |
+[bullet/] | Item # | Contraband Type | Quantity | Condition |
+[bullet/] | Item # | Contraband Type | Quantity | Condition |
+[/tbody][/table]
+
+[bold]Total FUC Value:[/bold] $[SAMPLE TEXT]
+
+[head=3]Agreement Terms[/head]
+By signing this form, the New Frontier Sheriff’s Department agrees to:
+
+Ensure prompt payment at the guaranteed rate per FUC for all Class 3 contraband turned over.
+
+Return a receipt for all listed contraband items and confirm payment has been transferred to Adal Miller's account.
+
+Honor this contract as long as no violations of NFSD terms occur during the transfer.
+
+Failure to meet the agreed-upon terms voids any further cooperation between CSG and NFSD.
+
+[head=3]Signatures[/head]
+[bold]PMC Leader Signature:[/bold] [SAMPLE TEXT]
+[bold]NFSD Representative Signature:[/bold] [SAMPLE TEXT]
+
+[color=#AAAAAA]This document is void without the signatures of both parties.[/color]

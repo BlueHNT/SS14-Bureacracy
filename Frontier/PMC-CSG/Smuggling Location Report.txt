@@ -1,0 +1,20 @@
+[color=#8b0000]◥[bold]CSG[/bold]◣ [bold]PMC Group[/bold][/color]
+[color=#8b0000]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+[head=2]Smuggling Location Report[/head]
+
+[bold]Reported By:[/bold] [SAMPLE TEXT]
+[bold]Vessel IFF:[/bold] [SAMPLE TEXT]
+[bold]Contact Code:[/bold] [SAMPLE TEXT]
+
+[head=3]Location Details[/head]
+[bold]Coordinates:[/bold][SAMPLE TEXT]
+[bold]Description:[/bold][SAMPLE TEXT]
+[bold]Threat Assessment:[/bold] Low / Medium / High
+[bold]Estimated FUC Value:[/bold] $[SAMPLE TEXT]
+
+[head=3]Additional Notes[/head]
+
+[head=3]Signatures[/head]
+[bold]PMC Representative Signature:[/bold]
+
+[color=#AAAAAA]Submit this form to the CSG Command's office for validation.[/color]

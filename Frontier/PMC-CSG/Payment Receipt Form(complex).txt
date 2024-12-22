@@ -1,0 +1,26 @@
+[color=#8b0000]◥[bold]CSG[/bold]◣ [bold]PMC Group[/bold][/color]  
+[color=#8b0000]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]  
+[head=2]Payment Receipt[/head]  
+
+[head=3]Transaction Information[/head]  
+[bold]Received From:[/bold] [e.g., New Frontier Sheriff's Department / Contractor Name]  
+[bold]Received By:[/bold] [Adal Miller / CSG Representative]  
+[bold]Amount Received:[/bold] $[e.g., 5,000]  
+[bold]Payment Method:[/bold] [e.g., FUC Transfer / Bank Transfer / Cash]  
+[bold]Reason for Payment:[/bold] [e.g., Sale of contraband / Intel / Security Services / Location Scouting]
+
+[head=3]Details of Services or Goods Provided[/head]  
+[bold]Service/Goods Description:[/bold] [e.g., Intelligence on smuggling routes, smuggler locations, or contraband stock]  
+[bold]Quantity (if applicable):[/bold] [e.g., 5 Locations, 10 Smuggling Routes]  
+[bold]Contract Reference (if applicable):[/bold] [e.g., Contract #12345]
+
+[head=3]Agreement Terms[/head]  
+[bold]Payment Terms Confirmed:[/bold] [Yes/No]  
+[bold]Payment Date:[/bold] [SAMPLE TEXT]  
+[bold]Payment Due Date (if applicable):[/bold] [SAMPLE TEXT]
+
+[head=3]Signatures[/head]  
+[bold]Payer Signature (NFSD / Contractor):[/bold] [e.g., Signature of NFSD Representative]  
+[bold]Recipient Signature (CSG):[/bold] [e.g., Adal Miller’s Signature]
+
+[color=#AAAAAA]Retain a copy of this receipt for record-keeping and audit purposes.[/color]

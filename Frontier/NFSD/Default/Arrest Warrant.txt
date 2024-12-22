@@ -1,0 +1,28 @@
+[color=#4f6e40]◥[bold]N[/bold]◣ [bold]New Frontier Sheriff's Department[/bold][/color]
+[color=#4f6e40]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+[head=2]Arrest Warrant[/head]
+
+[head=2]Defendant(s)[/head]
+[bold]Name:[/bold] 
+[bold]Description:[/bold] 
+
+[bold]Name:[/bold] 
+[bold]Description:[/bold] 
+
+[bold]Name:[/bold] 
+[bold]Description:[/bold] 
+
+[head=2]Offense Details[/head]
+[bold]Case #:[/bold] 
+[bold]Approximate Time of Offense:[/bold] 
+[bold]Location of Offense:[/bold] 
+[bold]Charges:[/bold] 
+
+[head=2]Requestor Information[/head]
+[bold]Requesting Officer:[/bold] 
+[bold]Authorizing Officer:[/bold] 
+[bold]Time of Authorization:[/bold] 
+
+
+
+[color=#AAAAAA]This warrant is only valid when requested by an agent of the NFSD, and approved, signed and stamped by a distinct (unless impossible) officer ranked Bailiff or above, or a Station Representative.[/color]

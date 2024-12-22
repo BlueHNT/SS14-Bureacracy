@@ -1,0 +1,26 @@
+[head=2][color=#0066CC]Request for Chemical or Pharmaceutical Supplies[/color][/head]
+
+[italic]Please fill out the fields below with the required details and list the chemicals or medicines you wish to request. Incomplete forms may result in delayed processing.[/italic]
+
+[bolditalic][color=#228B22]Requestor Information[/color][/bolditalic]
+
+[bullet/] [bold]Name:[/bold] [Sample Text]
+[bullet/] [bold]Occupation:[/bold] [Sample Text]
+[bullet/] [bold]Ship Name & ID:[/bold] [Sample Text] (e.g., Beaker NX-363)
+
+[bolditalic][color=#FF4500]Requested Chemicals or Medicines[/color][/bolditalic]
+
+[List the items you need, including quantities. For example:]
+
+Chemical/Medicine Name: [Sample Text]
+Quantity: [Sample Text]
+Additional Notes/Instructions:
+[Sample Text]
+
+[bolditalic][color=#9400D3]Authorization & Signature[/color][/bolditalic]
+
+[bullet/] [bold]Time of Request:[/bold] [Sample Text]
+
+[italic]Send this completed form to Beaker NX-363 for immediate processing with your signature below. Thank you for your cooperation.[/italic]
+
+[bolditalic][color=#00BFFF]Signature:[/color][/bolditalic]

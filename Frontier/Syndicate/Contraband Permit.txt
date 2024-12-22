@@ -1,0 +1,26 @@
+[color=#550000]█▀ █▀▀ ▀█[head=3] Spinward Syndicate[/head]
+█  ▀▀█  █ For the future.
+▀▀ ▀▀▀ ▀▀
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+
+[head=2]Class 3 Contraband Permit[/head]
+
+[bold]Permit Holder:[/bold]
+[bold]Holder Crew:[/bold]
+[bullet/]
+[bullet/]
+[bullet/]
+
+[bold]Shift Time:[/bold]
+
+[head=3]Authorization and Terms[/head]
+This Permit grants the Holder and their listed crew permission to possess and utilize Class 3 contraband within the designated time period. However, compliance with any Contraband Amnesty Agreement automatically voids this Permit.
+
+For a full definition of Class 3 contraband, please refer to §6.1.4 of Space Law.
+
+[bold]Authorized By:[/bold]
+[bold]Signature of Syndicate Agent:[/bold]
+
+[italic][color=#AAAAAA]This Permit is void without the signature of the Holder, and the signature and stamp of a Syndicate agent.
+
+This Permit remains valid until revoked or upon completion of the related transaction.[/italic][/color]

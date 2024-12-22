@@ -1,0 +1,24 @@
+[color=#8b0000]◥[bold]CSG[/bold]◣ [bold]PMC Group[/bold][/color]  
+[color=#8b0000]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]  
+[head=2]Dead Drop Report[/head]  
+
+[bold]Reported By:[/bold] [SAMPLE TEXT]  
+[bold]Vessel IFF:[/bold] [SAMPLE TEXT]  
+[bold]Contact Code:[/bold] [SAMPLE TEXT]  
+
+[head=3]Dead Drop Location Details[/head]  
+[bold]Coordinates (X, Y):[/bold][SAMPLE TEXT]  
+[bold]Next Dead Drop Time:[/bold][SAMPLE TEXT]  
+[bold]Location Description (if applicable):[/bold] [SAMPLE TEXT]  
+[bold]Threat Level Assessment (if applicable):[/bold] Low / Medium / High  
+
+[head=3]Additional Information[/head]  
+[bold]Potential for Criminal Activity at the Location (if applicable):[/bold] [SAMPLE TEXT]  
+[bold]Surrounding Conditions (Access, Security, etc.):[/bold] [SAMPLE TEXT]  
+[bold]Any Observations on Movement or Patterns of Smugglers (if known):[/bold] [SAMPLE TEXT]  
+
+[head=3]Signatures[/head]  
+[bold]PMC Representative Signature:[/bold] [SAMPLE TEXT]  
+[bold]NFSD Representative Signature (if applicable):[/bold] [SAMPLE TEXT]  
+
+[color=#AAAAAA]Submit this form to the NFSD office for validation and follow-up actions.[/color]

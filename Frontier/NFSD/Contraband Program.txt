@@ -1,0 +1,20 @@
+[color=#4f6e40]◥[bold]N[/bold]◣ [bold]New Frontier Sheriff's Department[/bold][/color]
+[color=#4f6e40]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+[head=2]Contraband Turnover Program[/head]
+
+[italic]The New Frontier Sheriff's Department is initiating a buyout program to encourage lawful disposal of contraband materials.[/italic]
+
+[bold][color=#228B22]Details:[/color][/bold]
+[bullet/] [bold]Program Name:[/bold] Contraband Turnover Initiative
+[bullet/] [bold]Grant Per FUC:[/bold] [color=#ff0000]$2,000 Spesos[/color] 
+[bullet/] [bold]Eligibility:[/bold] Applies to all surrendered FUC contraband. Does not cover items recovered from UIV vessels.
+
+[bold][color=#FF4500]Exclusions:[/color][/bold]
+The authority to handle contraband aboard UIV vessels rests solely with the **NFSD**. Attempting to trade or recover these items outside approved channels will result in immediate penalties under Space Law §3.9.1.
+
+[bold][color=#9400D3]How to Participate:[/color][/bold]
+Surrender eligible FUC contraband at your local NFSD office. Grants will be issued upon verification of items by a certified representative.
+
+[italic]"Turn over the contraband today. Build a safer tomorrow."[/italic]
+
+[bolditalic][color=#A52A2A]End of Transmission[/color][/bolditalic]

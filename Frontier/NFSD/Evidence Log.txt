@@ -1,0 +1,39 @@
+[color=#4f6e40]◥[bold]N[/bold]◣ [bold]New Frontier Sheriff's Department[/bold][/color]
+[color=#4f6e40]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+[head=2]Evidence Log[/head]
+
+[head=3]Case Information[/head]
+[bold]Case #:[/bold] 
+[bold]Incident Type:[/bold] 
+[bold]Location of Evidence Collection:[/bold] 
+[bold]Date & Time of Collection:[/bold] 
+
+[head=3]Collected Evidence[/head]
+[bold]Item #1:[/bold]
+    [bullet/] [Description of the item, including make, model, or other distinguishing details]
+    [bullet/] [Location where found]
+    [bullet/] [Officer in possession: Name, Rank]
+
+[bold]Item #2:[/bold]
+    [bullet/] [Description of the item, including make, model, or other distinguishing details]
+    [bullet/] [Location where found]
+    [bullet/] [Officer in possession: Name, Rank]
+
+[bold]Item #3:[/bold]
+    [bullet/] [Description of the item, including make, model, or other distinguishing details]
+    [bullet/] [Location where found]
+    [bullet/] [Officer in possession: Name, Rank]
+
+[head=3]Chain of Custody[/head]
+[bold]Initial Collector:[/bold] [Name & Rank] [italic](Date/Time)[/italic]
+[bold]Transferred to:[/bold] [Name & Rank] [italic](Date/Time)[/italic]
+[bold]Final Storage Location:[/bold] [Storage Area/Locker ID]
+
+[italic]This log certifies that all evidence listed above has been collected, handled, and stored according to NFSD protocols. Any unauthorized access or mishandling is subject to disciplinary action.[/italic]
+
+[bold]Submitting Officer:[/bold] 
+[bold]Officer Rank:[/bold] 
+[bold]Date of Submission:[/bold] 
+[bold]Officer Signature:[/bold] 
+
+[color=#AAAAAA]This form is official NFSD documentation and is void without the proper signature and stamp of a Bailiff or higher-ranked officer.[/color]

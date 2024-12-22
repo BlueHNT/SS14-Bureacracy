@@ -1,0 +1,38 @@
+[color=#4f6e40]◥[bold]N[/bold]◣ [bold]New Frontier Sheriff's Department[/bold][/color]
+[color=#4f6e40]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+[head=2]Temporary Detention Record[/head]
+
+[head=3]Detainee Information[/head]
+[bold]Name:[/bold] 
+[bold]Species:[/bold] 
+[bold]Vessel IFF (if applicable):[/bold] 
+[bold]Detention Location:[/bold] 
+[bold]Detained By Officer(s):[/bold] 
+
+[head=3]Detention Details[/head]
+[bold]Case #:[/bold] 
+[bold]Reason for Detention:[/bold] 
+[bold]Detention Start Time:[/bold] 
+[bold]Detention End Time:[/bold] 
+
+[head=3]Property & Belongings[/head]
+List all property confiscated from the detainee at the time of detention.
+
+[bold]Item #1:[/bold] 
+[bullet/] [bold]Description:[/bold] 
+[bullet/] [bold]Condition:[/bold] 
+
+[bold]Item #2:[/bold] 
+[bullet/] [bold]Description:[/bold] 
+[bullet/] [bold]Condition:[/bold] 
+
+[italic](Add additional entries as needed.)[/italic]
+
+[head=3]Custody Transfer[/head]
+[bold]Transferred To (Name & Role):[/bold] 
+[bold]Transfer Time:[/bold] 
+[bold]Receiving Officer Signature:[/bold] 
+
+[italic]By signing, the receiving officer accepts custody and responsibility for the detainee and their listed belongings.[/italic]
+
+[color=#AAAAAA]This record is void unless signed by all officers involved in the detention and custody transfer process.[/color]

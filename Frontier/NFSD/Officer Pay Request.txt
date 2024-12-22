@@ -1,0 +1,26 @@
+[color=#4f6e40]◥[bold]N[/bold]◣ [bold]New Frontier Sheriff's Department[/bold][/color]
+[color=#4f6e40]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+
+[head=2]Officer Pay Request Form[/head]
+
+Officer Information:
+[bullet/] [bold]Officer Name:[/bold]
+[bullet/] [bold]Officer Rank:[/bold]
+[bullet/] [bold]Ship or Station Assignment:[/bold]
+
+Request Details:
+
+[bullet/] [bold]Hours Worked This Shift:[/bold]
+[bullet/] [bold]Special Operations Completed (if any):[/bold]
+[List relevant operations, e.g., arrests, searches, contraband seizures, etc.]
+
+[bullet/] [bold]Request Amount:[/bold]
+
+Reason for Request:
+[italic](Explain any special circumstances or overtime claims, if applicable)[/italic]
+
+[color=#228B22][bold]Authorization & Signatures:[/bold][/color]
+
+[bullet/] [bold]Officer Signature:[/bold]
+[bullet/] [bold]Approving Command Signature:[/bold]
+[bullet/] [bold]Date:[/bold]
