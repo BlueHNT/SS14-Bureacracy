@@ -1,0 +1,68 @@
+These color codes represent departments and should be used in headers and references.
+
+
+Base:
+
+cb0000 Security
+c96dbf Science
+5b97bc Medical
+b18644 Cargo
+f39f27 Engineering
+ff2fff Clown (how special)
+9fed58 Food Service (bartender/chef/botany/service worker)
+6e6e6e Passenger
+1b67a5 Command
+009100 CentCom
+134975 NanoTrasen
+ff0000 Syndicate
+
+Corporations:
+
+Einstein Engines
+#777700 Olive Green
+#637C65 Sage Green
+#DFE4ED White
+#AB6F19 Orange
+
+Hephaestus Heavy Industries
+#AB6F19 Orange
+#263E23 Green
+
+Idris Incorporated
+#3A6F6F Teal
+#00D1D4 Cyan
+#1E2221 Black
+#E0F0F0 White
+
+Nanotrasen Incorporated
+#3D4F66 Navy Blue
+#282828 Black
+#DFE4ED White
+
+Orion Express
+#414446 Black
+#7A6347 Brown
+#C3C49E Silver
+
+Private Military Contracting Group
+#B9BDCD White
+#99CCFF Blue
+#3355FF Dark Blue
+#363C43 Black
+#C4A56E Gold
+
+Stellar Corporate Conglomerate
+#336699 Navy Blue
+#81D9EE Cyan
+#F1B61C Gold
+
+Zavodskoi Interstellar
+#363C43 Black
+#637C65 Sage Green
+#920A0A Red
+#7A6347 Brown
+
+Zeng-Hu Pharmaceuticals
+#A86BD8 Purple
+#DFE4ED White
+#B08FC8 Pink
