@@ -1,34 +1,31 @@
-[color=#003399]◥[bold]N[/bold]◣ [bold]Nanotrasen Cargo Department[/bold][/color]
-[color=#003399]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+# Priority Shipment Request
+[color=#b18644]◥[bold]N[/bold]◣ [bold]Nanotrasen Logistics Division[/bold][/color]
+[color=#b18644]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 [head=2]Priority Shipment Request[/head]
 
 [head=3]Request Details[/head]
 [bold]Requesting Department:[/bold]  
 [bold]Requesting Officer:[/bold]  
 [bold]Shift Time:[/bold]  
-[bold]Priority Level:[/bold] [High/Critical]  
+[bold]Priority Level:[/bold]
+[ ] High
+[ ] Critical
 [bold]Reason for Priority:[/bold]  
 
 [head=3]Shipment Information[/head]
+[bold]Expected Delivery Timeframe:[/bold] 
 [bold]Items Required:[/bold]  
-[List all requested items below, including quantity and description.]
+[color=#AAAAAA][italic]List all requested items below, including quantity and description. Add additional entries as needed in the same format.[/italic][/color]
 
-[bullet/] [bold]Item Name:[/bold]  
-[bullet/] [bold]Quantity:[/bold]  
-[bullet/] [bold]Description or Specifications:[/bold]  
-
-[bold]Expected Delivery Timeframe:[/bold]  
-
-[head=3]Budget Approval[/head]
-[bold]Budget Code:[/bold]  
-[bold]Estimated Cost:[/bold]  
+[bold]Item #1:[/bold]
+[bullet/] [bold]Item Name:[/bold]
+[bullet/] [bold]Quantity:[/bold]
+[bullet/] [bold]Reason for Request:[/bold] 
 
 [head=3]Authorization[/head]
-[bold]Requesting Officer Signature:[/bold]  
-[bold]Approving Officer Signature:[/bold]  
-[bold]Cargo Supervisor Approval:[/bold]  
-[bold]Date of Submission:[/bold]  
+[bold]Requesting Officer Signature:[/bold]
+[bold]Logistics Officer Approval:[/bold]
 
 [italic]Priority shipments are subject to additional fees and resource allocation. Unauthorized requests may be denied.[/italic]
 
-[color=#AAAAAA]This form is required for expedited processing of high-priority or critical shipments. Ensure all information is complete before submission to avoid delays.[/color]
+[color=#AAAAAA]This form is required for expedited processing of high-priority or critical shipments. Ensure all information is complete before submission to avoid delays. In cases of critical priority packages, such as station fuel and repair equipment, this form may be submitted after the shipment is made available.[/color]

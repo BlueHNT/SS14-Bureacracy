@@ -1,33 +1,30 @@
-[color=#003399]◥[bold]N[/bold]◣ [bold]Nanotrasen Cargo Department[/bold][/color]
-[color=#003399]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+# Order Request Form
+[color=#b18644]◥[bold]N[/bold]◣ [bold]Nanotrasen Logistics Division[/bold][/color]
+[color=#b18644]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 [head=2]Order Request Form[/head]
 
 [head=3]Request Details[/head]
 [bold]Requesting Department:[/bold]  
 [bold]Requesting Officer:[/bold]  
 [bold]Shift Time:[/bold]  
-[bold]Priority Level:[/bold] [Standard/High/Emergency]  
+[bold]Priority Level:[/bold]
+[ ] Standard
+[ ] High
+[ ] Emergency
 
 [head=3]Item Information[/head]
-[List all requested items below, including quantity, description, and reason for request.]
+[color=#AAAAAA][italic]List all requested items below, including quantity, description, and reason for request. Add additional entries as needed in the same format.[/italic][/color]
 
-[bold]Item #1:[/bold]  
-[bullet/] [bold]Item Name:[/bold]  
-[bullet/] [bold]Quantity:[/bold]  
-[bullet/] [bold]Reason for Request:[/bold]  
-
-[bold]Item #2:[/bold]  
-[bullet/] [bold]Item Name:[/bold]  
-[bullet/] [bold]Quantity:[/bold]  
-[bullet/] [bold]Reason for Request:[/bold]  
-
-[italic](Add additional entries as needed.)[/italic]
+[bold]Item #1:[/bold]
+[bullet/] [bold]Item Name:[/bold]
+[bullet/] [bold]Quantity:[/bold]
+[bullet/] [bold]Reason for Request:[/bold]
 
 [head=3]Authorization[/head]
-[bold]Requesting Officer Signature:[/bold]  
-[bold]Approving Officer Signature (if required):[/bold]  
-[bold]Date of Request Submission:[/bold]  
+[bold]Requesting Officer Signature:[/bold]
+[bold]Approving Officer Signature (if required):[/bold]
 
 [italic]All order requests are subject to cargo department approval and budget availability.[/italic]
+[italic]If the requested item is restricted, such as those under security or command jurisdiction, the relevant head of command's stamp and signature will be required.[/italic]
 
-[color=#AAAAAA]This form must be properly signed and submitted to the Cargo Office for processing. Any incomplete or unauthorized requests may be delayed or denied.[/color]
+[color=#AAAAAA]This form must be properly signed, stamped and submitted to the Cargo Office for processing. Any incomplete or unauthorized requests may be delayed or denied.[/color]

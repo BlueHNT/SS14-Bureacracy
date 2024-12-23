@@ -1,56 +1,47 @@
-[color=#003399]◥[bold]N[/bold]◣ [bold]Nanotrasen Incident Report[/bold][/color]
-[color=#003399]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+# Incident Report
+[color=#b18644]◥[bold]N[/bold]◣ [bold]Nanotrasen Incident Report[/bold] [/color]
+[color=#b18644]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 [head=2]Incident Report[/head]
 
 [head=3]Report Information[/head]
-[bold]Report Filed By:[/bold]  
-[bold]Department:[/bold]  
-[bold]Position:[/bold]  
-[bold]Shift Time:[/bold]  
+[bold]Report Filed By:[/bold]
+[bold]Department:[/bold]
+[bold]Position:[/bold]
+[bold]Shift Time:[/bold]
 
 [head=3]Incident Details[/head]
-[bold]Date of Incident:[/bold]  
-[bold]Time of Incident:[/bold]  
-[bold]Location:[/bold]  
+[bold]Time of Incident:[/bold]
+[bold]Location:[/bold]
 
-[bold]Type of Incident:[/bold]  
-[ ] Security Breach  
-[ ] Equipment Malfunction  
+[bold]Type of Incident:[/bold]
+[ ] Security Breach
+[ ] Equipment Malfunction
 [ ] Personnel Conflict  
 [ ] Hazardous Materials  
-[ ] Other: [Specify]
+[ ] Other [Specify]:
 
-[bold]Description of Incident:[/bold]  
-[Provide a detailed summary of the incident, including events leading up to it, actions taken, and the outcome.]  
-
-[textarea/]
+[bold]Description of Incident:[/bold]
+[color=#AAAAAA][italic]Provide a detailed summary of the incident, including events leading up to it, actions taken, and the outcome.[/italic][/color]
 
 [head=3]Involved Parties[/head]
 [bold]Individuals Involved:[/bold]  
-[List all individuals involved in the incident, including roles and affiliations.]  
+[color=#AAAAAA][italic]List all individuals involved in the incident, including roles and affiliations.[/italic][/color]
 [bullet/]  
 [bullet/]  
 [bullet/]  
 
 [head=3]Witness Accounts[/head]
-[List statements or observations provided by witnesses.]  
-
-[textarea/]
+[color=#AAAAAA][italic]List statements or observations provided by witnesses.[/italic][/color]
 
 [head=3]Immediate Actions Taken[/head]
-[Describe steps taken during or immediately after the incident to contain or resolve the issue.]  
-
-[textarea/]
+[color=#AAAAAA][italic]Describe steps taken during or immediately after the incident to contain or resolve the issue.[/italic][/color]
 
 [head=3]Recommendations[/head]
-[Provide suggestions for preventing similar incidents or further actions required.]  
-
-[textarea/]
+[color=#AAAAAA][italic]Provide suggestions for preventing similar incidents or further actions required.[/italic][/color]
 
 [head=3]Authorization[/head]
-[bold]Report Author's Signature:[/bold]  
-[bold]Date of Submission:[/bold]  
+[bold]Report Author's Signature:[/bold]
 
 [italic]This report will be reviewed by the appropriate department head or station command for resolution and record-keeping.[/italic]
 
-[color=#AAAAAA]This form is only valid when submitted through authorized Nanotrasen reporting systems.[/color]
+[color=#AAAAAA]This form is valid only when accompanied by the author's signature.[/color]

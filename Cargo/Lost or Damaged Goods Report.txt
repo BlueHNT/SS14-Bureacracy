@@ -1,5 +1,6 @@
-[color=#003399]◥[bold]N[/bold]◣ [bold]Nanotrasen Logistics Division[/bold][/color]
-[color=#003399]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+# Lost/Damaged Goods Report
+[color=#b18644]◥[bold]N[/bold]◣ [bold]Nanotrasen Logistics Division[/bold] [/color]
+[color=#b18644]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 [head=2]Lost or Damaged Goods Report[/head]
 
 [head=3]Submitter Information[/head]
@@ -9,7 +10,6 @@
 [bold]Shift Time:[/bold]  
 
 [head=3]Incident Details[/head]
-[bold]Date of Incident:[/bold]  
 [bold]Time of Incident:[/bold]  
 [bold]Location:[/bold]  
 
@@ -18,17 +18,13 @@
 [ ] Damaged Goods  
 
 [bold]Description of Goods:[/bold]  
-[Provide a detailed description of the items lost or damaged, including quantity, serial numbers, or unique identifiers.]  
-
-[textarea/]
+[color=#AAAAAA][italic]Provide a detailed description of the items lost or damaged, including quantity, serial numbers, or unique identifiers.[/italic][/color]
 
 [bold]Circumstances of Loss/Damage:[/bold]  
-[Explain how the goods were lost or damaged, including any involved personnel or events.]  
-
-[textarea/]
+[color=#AAAAAA][italic]Explain how the goods were lost or damaged, including any involved personnel or events.[/italic][/color]
 
 [bold]Estimated Value of Goods:[/bold]  
-[Insert the approximate total value of the items, if known.]  
+[color=#AAAAAA][italic]Insert the approximate total value of the items, if known.[/italic][/color]
 
 [head=3]Additional Information[/head]
 [bold]Involved Personnel or Witnesses:[/bold]  
@@ -37,19 +33,14 @@
 [bullet/]  
 
 [bold]Supporting Evidence (if applicable):[/bold]  
-[List any evidence provided, such as security footage timestamps, photographs, or cargo manifest discrepancies.]  
-
-[textarea/]
+[color=#AAAAAA][italic]List any evidence provided, such as security footage timestamps, photographs, or cargo manifest discrepancies.[/italic][/color]
 
 [head=3]Resolution Requested[/head]
-[Provide details about the compensation or resolution expected, such as reimbursement, replacement, or investigation.]  
-
-[textarea/]
+[color=#AAAAAA][italic]Provide details about the compensation or resolution expected, such as reimbursement, replacement, or investigation.[/italic][/color]
 
 [head=3]Authorization[/head]
-[bold]Submitter Signature:[/bold]  
-[bold]Date of Submission:[/bold]  
+[bold]Submitter's Signature:[/bold]
 
 [italic]This report will be reviewed by the Logistics Division. Follow-up actions may involve an internal audit or communication with relevant departments.[/italic]
 
-[color=#AAAAAA]This document is only valid when submitted through the station's Logistics Office or electronically via authorized Nanotrasen terminals.[/color]
+[color=#AAAAAA]This form is valid only when accompanied by the submitter's signature.[/color]

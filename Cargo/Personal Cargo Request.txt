@@ -1,5 +1,6 @@
-[color=#003399]◥[bold]N[/bold]◣ [bold]Nanotrasen Logistics Department[/bold][/color]
-[color=#003399]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+# Personal Cargo Request Form
+[color=#b18644]◥[bold]N[/bold]◣ [bold]Nanotrasen Logistics Division[/bold][/color]
+[color=#b18644]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 [head=2]Personal Cargo Request Form[/head]
 
 [head=3]Requester Information[/head]
@@ -9,13 +10,16 @@
 [bold]Shift Time:[/bold]  
 
 [head=3]Request Details[/head]
-[bold]Item(s) Requested:[/bold]  
-[List each item, including quantities, specific models, or types if applicable.]  
-[textarea/]
+[bold]Item(s) Requested[/bold]  
+[color=#AAAAAA][italic]List each item, including quantities, specific models, or types if applicable. Add additional entries as needed in the same format.[/italic][/color]
+
+[bold]Item #1:[/bold]
+[bullet/] [bold]Item Name:[/bold]
+[bullet/] [bold]Quantity:[/bold]
+[bullet/] [bold]Reason for Request:[/bold]
 
 [bold]Reason for Request:[/bold]  
-[Provide justification for the requested item(s).]  
-[textarea/]
+[color=#AAAAAA][italic]Provide justification for the requested item(s).[/italic][/color]
 
 [bold]Priority:[/bold]  
 [ ] Standard (Delivered when cargo capacity allows)  
@@ -24,18 +28,16 @@
 [head=3]Payment Information[/head]
 [bold]Payment Method:[/bold]  
 [ ] Personal Account  
-[ ] Department Budget Approval Required  
+[ ] Department Budget (Approval Required from Department Head)
 
 [bold]Estimated Cost:[/bold]  
-[Specify the expected cost of the item(s). Leave blank if unknown.]  
+[color=#AAAAAA][italic]Specify the expected cost of the item(s). Leave blank if unknown.[/italic][/color]
 
 [head=3]Authorization[/head]
-[italic]Please ensure the request has been authorized by your department head or the cargo manager.[/italic]  
+[italic]Please ensure the request has been authorized by your department head or the logistics officer.[/italic]  
 
-[bold]Requester's Signature:[/bold]  
-[bold]Date of Submission:[/bold]  
+[bold]Requester's Signature:[/bold]
+[bold]Approving Officer's Signature:[/bold]
 
-[bold]Approving Officer Signature:[/bold]  
-[bold]Date of Approval:[/bold]  
-
-[color=#AAAAAA]All requests are subject to availability, station regulations, and cargo department policies.[/color]
+[color=#AAAAAA]All requests are subject to availability, station regulations, and cargo department policies.
+This form must be properly signed, stamped and submitted to the Cargo Office for processing. Any incomplete or unauthorized requests may be delayed or denied.[/color]
