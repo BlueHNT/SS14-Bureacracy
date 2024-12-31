@@ -1,0 +1,20 @@
+[color=#AFAFAF]█▀  █▀▀  ▀█[head=3] Spinward Syndicate[/head]
+█     ▀▀█     █  For the future.
+▀▀  ▀▀▀  ▀▀
+[italic][color=#E5E5E5]This document contains classified information. DO NOT DISTRIBUTE.[/italic]
+[head=3][color=#2E0404]SECURE FAX
+DESTROY AFTER READING[/head][/color]
+[color=#AFAFAF]▌ICD12834911[/color]
+
+[color=#550000]╔═════════════════╦══════════════════════╗[/color]
+[color=#550000]║██▀░░▄█████▄░░▀██║[color=#4D4D4D][bold]SUBJECT: [color=black]███████████████[/color]
+[color=#550000]║█▌░░░██▄░░░░░░░▐█║[/color]SENDER: [color=black]██████ █████[/color]
+[color=#550000]║█▌░░░░▀███▄░░░░▐█║[/color]RECIPIENT: [color=black]███ ██████[/color]
+[color=#550000]║█▌░░░░░░░▀██░░░▐█║[/color]FAX #11993
+[color=#550000]║██▄░░▀█████▀░░▄██║[/color]MACHINE ID: [color=black]██████[/color]
+[color=#550000]╚═════════════════╩══════════════════════╝[/color]
+[head=3]Cybersun Incorporated[/head]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color][bold][italic]
+    [color=#aaaaaa]START FAX[/color][/bold][/italic][/color][/bold][/color][/color]
+Sample Text
+    [color=#aaaaaa][bold][italic]END OF FAX

@@ -1,0 +1,32 @@
+# All Access Authorization
+[color=#003366]◥[bold]N[/bold]◣ [bold]Head of Personnel's Office[/bold][/color]  
+[color=#003366]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]  
+[head=2]All Access Authorization Form (AA-1)[/head]  
+
+[bold]Employee Name:[/bold]  
+[bold]Position/Department:[/bold]  
+
+[bold]Purpose of All Access Request:[/bold]  
+[color=#AAAAAA][italic][Provide a detailed explanation of why unrestricted station access is necessary.][/italic][/color]  
+[/bullet]
+
+[bold]Required Approvals:[/bold]  
+[color=#AAAAAA][italic][This form must be signed or stamped by all active Heads of Department. Their signatures confirm acknowledgment and approval of this request. Missing approvals will invalidate the form.][/italic][/color]  
+[/bullet]
+
+[bullet]  
+[bold]Chief Engineer Approval:[/bold]  
+[bold]Chief Medical Officer Approval:[/bold]  
+[bold]Research Director Approval:[/bold]  
+[bold]Head of Security Approval:[/bold]  
+[bold]Quartermaster Approval (if applicable):[/bold]  
+[bold]Other Department Head Approval(s) (if applicable):[/bold]  
+[bullet]  
+
+[bold]Mental Health Assessment:[/bold]  
+[color=#AAAAAA][italic][Attach a memo from the Chief Medical Officer or a designated psychiatrist affirming the requestor’s mental soundness and fitness for duty. Applications without this assessment will not be considered.][/italic][/color]  
+
+[bold]Head of Personnel Final Approval:[/bold]  
+[bold]Date/Time of Approval:[/bold]  
+
+[color=#AAAAAA]This form authorizes the issuance of an All Access identification card, contingent on approval from all department heads and confirmation of mental stability. Unauthorized use or modification of this form is strictly prohibited. The Head of Personnel reserves the right to deny any incomplete or fraudulent applications.[/color]
