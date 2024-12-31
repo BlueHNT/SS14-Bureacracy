@@ -1,17 +1,21 @@
+# Additional Access
 [color=#003366]◥[bold]N[/bold]◣ [bold]Head of Personnel's Office[/bold][/color]
 [color=#003366]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
-[head=2]Access Request Form (A-1)[/head]
+[head=2]Additional Access Request Form (A-1)[/head]
 
-[bold]Requestor Name:[/bold]  
-[bold]Employee ID:[/bold]  
+[bold]Employee Name:[/bold]  
+[bold]Position/Department:[/bold] 
 [bold]Requested Access Level(s):[/bold]  
-[italic][Specify requested doors, departments, or zones.][/italic]  
+[color=#AAAAAA][italic][Specify requested doors, departments, or zones.][/color][/italic]
+[/bullet]
 
 [bold]Reason for Request:[/bold]  
-[italic][Provide justification for access expansion.][/italic]  
+[color=#AAAAAA][italic][Provide justification for access expansion.][/color][/italic]
+[/bullet]
 
-[bold]Approving Officer:[/bold]  
-[bold]Rank:[/bold]  
-[bold]Date/Time of Approval:[/bold]  
+[bold]Head of Department Approval(if applicable):[/bold] 
+[bold]Head of Personnel Approval:[/bold] 
 
-[color=#AAAAAA]This form authorizes changes to station access under the jurisdiction of the [italic]Head of Personnel's Office[/italic]. Unauthorized use or modification is prohibited.[/color]
+[bold]Date/Time of Approval:[/bold]
+
+[color=#AAAAAA]This form authorizes changes to station access under the jurisdiction of the [italic]Head of Personnel's Office[/italic]. In cases where the requested access pertains to areas outside the Head of Personnel's jurisdiction, this form must also bear a signature or stamp from the department head overseeing the affected area to ensure proper authorization. Unauthorized use or modification is prohibited.[/color]

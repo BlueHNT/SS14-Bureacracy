@@ -1,18 +1,22 @@
+# Equipment Requisition
 [color=#003366]◥[bold]N[/bold]◣ [bold]Head of Personnel's Office[/bold][/color]
 [color=#003366]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 [head=2]Equipment Requisition Request (C-1)[/head]
 
-[bold]Requestor Name:[/bold]  
-[bold]Employee ID:[/bold]  
-[bold]Item(s) Requested:[/bold]  
-[italic][List each item in detail.][/italic]  
+[bold]Employee Name:[/bold] 
+[bold]Position/Department:[/bold] 
+[bold]Item(s) Requested:[/bold] 
+[color=#AAAAAA][italic][List each item in detail.][/color][/italic]  
+[/bullet]
 
 [bold]Reason for Request:[/bold]  
-[italic][Explain purpose and need for the equipment.][/italic]  
+[color=#AAAAAA][italic][Explain purpose and need for the equipment.][/color][/italic]  
+[/bullet]
 
 [bold]Department Head Approval:[/bold]  
-[bold]Quartermaster Confirmation:[/bold]  
+[bold]Head of Personnel Approval:[/bold] 
+[bold]Security Confirmation (if applicable):[/bold] 
 
-[bold]Date/Time of Approval:[/bold]  
+[bold]Date/Time of Approval:[/bold] 
 
-[color=#AAAAAA]This form authorizes requisition of station equipment. Unauthorized distribution is prohibited.[/color]
+[color=#AAAAAA]This form authorizes the requisition of station equipment not typically available to the requesting crewmember. Unauthorized distribution or use of this equipment is strictly prohibited.[/color]

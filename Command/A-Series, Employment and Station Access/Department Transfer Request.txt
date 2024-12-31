@@ -1,19 +1,20 @@
+# Department Transfer
 [color=#003366]◥[bold]N[/bold]◣ [bold]Head of Personnel's Office[/bold][/color]
 [color=#003366]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 [head=2]Department Transfer Request Form (A-2)[/head]
 
-*[bold]Employee Name:[/bold]  
-[bold]Employee ID:[/bold]
+[bold]Employee Name:[/bold]
+[bold]Position/Department:[/bold] 
 
-*[bold]Current Department:[/bold]  
-*[bold]Requested Department:[/bold]  
+[bold]Requested Department:[/bold]  
+[bold]Reason for Transfer:[/bold]  
+[color=#AAAAAA][italic][Provide reasoning for the transfer, including needs or qualifications.][/color][/italic]  
+[/bullet]
 
-*[bold]Reason for Transfer:[/bold]  
-[italic][Provide reasoning for the transfer, including needs or qualifications.][/italic]  
+[bold]Head of Current Department Approval (if applicable):[/bold] 
+[bold]Head of New Department Approval:[/bold] 
+[bold]Head of Personnel Approval:[/bold] 
 
-*[bold]Head of Current Department Approval (if applicable):[/bold]  
-*[bold]Head of New Department Approval:[/bold]  
-*[bold]Head of Personnel Approval:[/bold]  
-[bold]Date/Time of Processing:[/bold]  
+[bold]Date/Time of Processing:[/bold] 
 
 [color=#AAAAAA]This document authorizes the reassignment of personnel between departments. All signatures must be present for validity.[/color]

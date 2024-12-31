@@ -1,15 +1,17 @@
+# Firearm Permit
 [color=#003366]◥[bold]N[/bold]◣ [bold]Head of Personnel's Office[/bold][/color]
 [color=#003366]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 [head=2]Firearm Permit Request (C-3)[/head]
 
-[bold]Requestor Name:[/bold]  
-[bold]Employee ID:[/bold]  
-[bold]Requested Firearm Type:[/bold]  
+[bold]Employee Name:[/bold] 
+[bold]Position/Department:[/bold] 
+[bold]Requested Firearm:[/bold] 
 
 [bold]Reason for Request:[/bold]  
-[italic][Justify the need for carrying firearms on station premises.][/italic]  
+[color=#AAAAAA][italic][Justify the need for carrying firearms on station premises.][/color][/italic]  
+[/bullet]
 
-[bold]Head of Security Approval:[/bold]  
+[bold]Security Approval:[/bold]  
 [bold]Head of Personnel Approval:[/bold]  
 [bold]Date/Time of Authorization:[/bold]  
 

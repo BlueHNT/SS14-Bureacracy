@@ -14,11 +14,11 @@
 [bold]Location:[/bold]
 
 [bold]Type of Incident:[/bold]
-[ ] Security Breach
-[ ] Equipment Malfunction
-[ ] Personnel Conflict  
-[ ] Hazardous Materials  
-[ ] Other [Specify]:
+\[ \] Security Breach
+\[ \] Equipment Malfunction
+\[ \] Personnel Conflict  
+\[ \] Hazardous Materials  
+\[ \] Other [Specify]:
 
 [bold]Description of Incident:[/bold]
 [color=#AAAAAA][italic]Provide a detailed summary of the incident, including events leading up to it, actions taken, and the outcome.[/italic][/color]

@@ -22,13 +22,13 @@
 [color=#AAAAAA][italic]Provide justification for the requested item(s).[/italic][/color]
 
 [bold]Priority:[/bold]  
-[ ] Standard (Delivered when cargo capacity allows)  
-[ ] Urgent (Additional charges may apply)  
+\[ \] Standard (Delivered when cargo capacity allows)  
+\[ \] Urgent (Additional charges may apply)  
 
 [head=3]Payment Information[/head]
 [bold]Payment Method:[/bold]  
-[ ] Personal Account  
-[ ] Department Budget (Approval Required from Department Head)
+\[ \] Personal Account  
+\[ \] Department Budget (Approval Required from Department Head)
 
 [bold]Estimated Cost:[/bold]  
 [color=#AAAAAA][italic]Specify the expected cost of the item(s). Leave blank if unknown.[/italic][/color]

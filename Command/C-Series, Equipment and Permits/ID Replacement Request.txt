@@ -1,12 +1,13 @@
+# ID Replacement
 [color=#003366]◥[bold]N[/bold]◣ [bold]Head of Personnel's Office[/bold][/color]
 [color=#003366]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 [head=2]ID Replacement Request (C-2)[/head]
 
-[bold]Employee Name:[/bold]  
-[bold]Employee ID:[/bold]  
-[bold]Reason for Replacement:[/bold]  
+[bold]Employee Name:[/bold] 
+[bold]Position/Department:[/bold] 
+[bold]Reason for Replacement:[/bold] 
 
-[bold]Head of Personnel Approval:[/bold]  
-[bold]Date/Time of Processing:[/bold]  
+[bold]Head of Personnel Approval:[/bold] 
+[bold]Date/Time of Processing:[/bold] 
 
-[color=#AAAAAA]This form authorizes issuance of a replacement ID card for personnel.[/color]
+[color=#AAAAAA]This form authorizes the issuance of replacement ID cards for personnel. Additionally, in the event of a missing PDA, a replacement PDA will also be provided.[/color]

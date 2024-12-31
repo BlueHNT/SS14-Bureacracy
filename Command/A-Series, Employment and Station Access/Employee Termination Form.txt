@@ -1,18 +1,19 @@
+# Employee Termination
 [color=#003366]◥[bold]N[/bold]◣ [bold]Head of Personnel's Office[/bold][/color]
 [color=#003366]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 [head=2]Employee Termination Form (A-3)[/head]
 
-[bold]Employee Name:[/bold]  
-[bold]Employee ID:[/bold]  
-[bold]Position/Department:[/bold]  
+[bold]Employee Name:[/bold] 
+[bold]Position/Department:[/bold] 
 
 [bold]Reason for Termination:[/bold]  
-[italic][Detail the justification for termination. Attach any supporting documentation if required.][/italic]  
+[color=#AAAAAA][italic][Detail the justification for termination. Attach any supporting documentation if required.][/color][/italic]  
+[/bullet]
 
-[bold]Reporting Officer:[/bold]  
-[bold]Head of Personnel Approval:[/bold]  
-[bold]Security Confirmation (if applicable):[/bold]  
+[bold]Head of Current Department Approval (if applicable):[/bold] 
+[bold]Head of Personnel Approval:[/bold] 
+[bold]Security Confirmation (if applicable):[/bold] 
 
-[bold]Date/Time of Termination:[/bold]  
+[bold]Date/Time of Termination:[/bold] 
 
 [color=#AAAAAA]This form must be processed by the [italic]Head of Personnel's Office[/italic] and, if applicable, approved by Security for proper dismissal procedures.[/color]

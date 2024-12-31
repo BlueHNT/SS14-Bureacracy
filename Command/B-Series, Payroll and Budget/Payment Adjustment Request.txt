@@ -1,17 +1,20 @@
+# Payment Adjustment
 [color=#003366]◥[bold]N[/bold]◣ [bold]Head of Personnel's Office[/bold][/color]
 [color=#003366]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 [head=2]Payment Adjustment Request (B-1)[/head]
 
-[bold]Employee Name:[/bold]  
-[bold]Employee ID:[/bold]  
-[bold]Current Pay Rate:[/bold]  
-[bold]Adjusted Pay Rate:[/bold]  
+[bold]Employee Name:[/bold] 
+[bold]Position/Department:[/bold] 
+[bold]Current Pay Rate:[/bold] 
+[bold]Adjusted Pay Rate:[/bold] 
 
-[bold]Reason for Adjustment:[/bold]  
-[italic][Provide justification, e.g., promotion, demotion, or error correction.][/italic]  
+[bold]Reason for Adjustment:[/bold] 
+[color=#AAAAAA][italic][Provide justification, e.g., promotion, demotion, or error correction.][/color][/italic]  
+[/bullet]
 
-[bold]Head of Personnel Approval:[/bold]  
-[bold]Accounting Office Confirmation:[/bold]  
+[bold]Head of Personnel Approval:[/bold] 
+[bold]Head of Department Approval(if applicable):[/bold] 
+
 [bold]Date/Time of Adjustment:[/bold]  
 
 [color=#AAAAAA]This form authorizes changes to an employee's payroll under the oversight of the [italic]Head of Personnel's Office[/italic].[/color]

@@ -8,9 +8,10 @@
 [bold]Requesting Officer:[/bold]  
 [bold]Shift Time:[/bold]  
 [bold]Priority Level:[/bold]
-[ ] High
-[ ] Critical
+\[ \] High
+\[ \] Critical
 [bold]Reason for Priority:[/bold]  
+[/bullet]
 
 [head=3]Shipment Information[/head]
 [bold]Expected Delivery Timeframe:[/bold] 
