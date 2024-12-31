@@ -10,13 +10,13 @@
 [bold]Shift Time:[/bold]  
 
 [head=3]Type of Submission[/head]
-\[ \] Complaint  
-\[ \] Suggestion  
+\[ ] Complaint  
+\[ ] Suggestion  
 
 [bold]Urgency Level:[/bold]
-\[ \] Low
-\[ \] Moderate
-\[ \] High
+\[ ] Low
+\[ ] Moderate
+\[ ] High
 
 [head=3]Details[/head]
 [bold]Description of Issue or Suggestion:[/bold]  

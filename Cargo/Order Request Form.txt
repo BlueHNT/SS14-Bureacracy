@@ -8,9 +8,9 @@
 [bold]Requesting Officer:[/bold]  
 [bold]Shift Time:[/bold]  
 [bold]Priority Level:[/bold]
-\[ \] Standard
-\[ \] High
-\[ \] Emergency
+\[ ] Standard
+\[ ] High
+\[ ] Emergency
 
 [head=3]Item Information[/head]
 [color=#AAAAAA][italic]List all requested items below, including quantity, description, and reason for request. Add additional entries as needed in the same format.[/italic][/color]

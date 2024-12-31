@@ -14,8 +14,8 @@
 [bold]Location:[/bold]  
 
 [bold]Type of Incident:[/bold]  
-\[ \] Lost Goods  
-\[ \] Damaged Goods  
+\[ ] Lost Goods  
+\[ ] Damaged Goods  
 
 [bold]Description of Goods:[/bold]  
 [color=#AAAAAA][italic]Provide a detailed description of the items lost or damaged, including quantity, serial numbers, or unique identifiers.[/italic][/color]
