@@ -1,0 +1,35 @@
+# Shop Permit
+[color=#003366]◥[bold]N[/bold]◣ [bold]Head of Personnel's Office[/bold][/color]  
+[color=#003366]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]  
+[head=2]Shop Permit Application Form (C-4)[/head]  
+
+[bold]Applicant Name:[/bold]  
+[bold]Position/Department:[/bold]  
+
+[bold]Proposed Shop Name:[/bold]  
+[bold]Location of Shop:[/bold]  
+[color=#AAAAAA][italic][Specify the area or zone where the shop will be set up. Approval from the relevant department head may be required.][/italic][/color]  
+[/bullet]
+
+[bold]Type of Goods or Services Offered:[/bold]  
+[color=#AAAAAA][italic][Provide a detailed description of the products or services your shop will provide.][/italic][/color]  
+
+[bold]Reason for Establishing Shop:[/bold]  
+[color=#AAAAAA][italic][Explain the purpose of the shop and its benefit to the station.][/italic][/color]  
+[/bullet]
+
+[bold]Required Approvals:[/bold]  
+[color=#AAAAAA][italic][This form must include the signature or stamp of approval from the relevant department head overseeing the area where the shop will operate. If the shop impacts multiple departments, additional approvals may be required. Missing approvals will invalidate the application.][/italic][/color]  
+
+[bullet]  
+[bold]Department Head Approval (if applicable):[/bold]  
+[bold]Head of Personnel Final Approval:[/bold]  
+[bullet]  
+
+[bold]Additional Notes (Optional):[/bold]  
+[color=#AAAAAA][italic][Include any other information or special requests related to the shop’s operation.][/italic][/color]  
+[/bullet]
+
+[bold]Date/Time of Approval:[/bold]  
+
+[color=#AAAAAA]This form authorizes the establishment and operation of a shop on station premises, provided all relevant approvals are secured. Unauthorized operation or falsification of this form is strictly prohibited. The Head of Personnel reserves the right to deny or revoke shop permits at their discretion.[/color]

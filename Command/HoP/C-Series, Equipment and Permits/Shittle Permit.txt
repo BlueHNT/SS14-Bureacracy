@@ -1,0 +1,35 @@
+# Shuttle Permit 
+[color=#003366]◥[bold]N[/bold]◣ [bold]Head of Personnel's Office[/bold][/color]  
+[color=#003366]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]  
+[head=2]Shuttle Permit Application Form (C-5)[/head]  
+
+[bold]Applicant Name:[/bold]  
+[bold]Position/Department:[/bold]  
+
+[bold]Proposed Shuttle Name:[/bold]  
+[color=#AAAAAA][italic][Ensure the name is appropriately terrible to suit the "shittle" designation.][/italic][/color]  
+
+[bold]Purpose of Shuttle:[/bold]  
+[color=#AAAAAA][italic][Explain the purpose of the shuttle and why its poor quality is acceptable or even necessary.][/italic][/color]  
+
+[bold]Requested Launch Location:[/bold]  
+[color=#AAAAAA][italic][Specify the docking bay or station area from which the shuttle will operate.][/italic][/color]  
+
+[bold]Expected Features (or Lack Thereof):[/bold]  
+[color=#AAAAAA][italic][List any notable quirks, deficiencies, or questionable design choices that define this shuttle as a "shittle."][/italic][/color]  
+
+[bold]Relevant Approvals:[/bold]  
+[color=#AAAAAA][italic][This form must include the signature or stamp of approval from the department overseeing shuttle operations (usually the Chief Engineer or Quartermaster) and the Head of Personnel. Missing approvals will invalidate the application.][/italic][/color]  
+
+[bullet]  
+[bold]Chief Engineer Approval:[/bold]  
+[bold]Quartermaster Approval (if applicable):[/bold]  
+[bold]Head of Personnel Final Approval:[/bold]  
+[bullet]  
+
+[bold]Additional Notes (Optional):[/bold]  
+[color=#AAAAAA][italic][Provide any other information about the shittle’s design, intended use, or potential hazards.][/italic][/color]  
+
+[bold]Date/Time of Approval:[/bold]  
+
+[color=#AAAAAA]This form authorizes the deployment of a shuttle that, by all accounts, is of questionable quality and utility (hereafter referred to as a "shittle"). The Head of Personnel and other relevant authorities assume no liability for issues arising from its operation. Unauthorized deployment or falsification of this form is strictly prohibited.[/color]
